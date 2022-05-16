@@ -30,5 +30,4 @@ Welcome! I'm Oscar Hernandez | <img align="center" height="18px" src="https://wa
 - 👯 I’m looking to collaborate on new projects
 - 💬 Ask me about JS, REACT, .NET, SQL, C#, HTML, CSS
 - 📫 How to reach me: https://www.linkedin.com/in/oscarlhernandez5221/
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I love learning and working on projects
